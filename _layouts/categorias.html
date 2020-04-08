@@ -1,0 +1,27 @@
+{% include header.html %}
+<nav class="category-nav">
+  <ul class="" >
+    <li class="li-category"><a href="html">HTML</a></li>
+    <li class="li-category"><a href="{{ post.url }}">CSS</a></li>
+    <li class="li-category"><a href="{{ post.url }}">Conceitos</a></li>
+    <li class="li-category"><a href="{{ post.url }}">Tutoriais</a></li>
+    <li class="li-category"><a href="{{ post.url }}">Templates</a></li>
+    <li class="li-category"><a href="{{ post.url }}">Novidades</a></li>
+  </ul>
+</nav>
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <div class="home">
+          <br><br><br>
+          <h2 class="post-list-heading">Artigos</h2>
+          <ul class="post-list">
+            {% for post in site.posts %}
+              <span class="post-meta">{{ post.date | date: "%b %e, %Y" }}</span>
+              <h2 style="margin-bottom: 5px;"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+              <h4 style="margin-bottom: 30px;">Conteúdo: {{ post.description }}</h4>
+            {% endfor %}
+          </ul>
+      </div>
+    </main>
+{% include footer.html %}

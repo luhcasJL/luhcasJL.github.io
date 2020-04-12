@@ -98,7 +98,7 @@ Em seguida coloque abaixo dos títulos, a cada vez que colocar algo novo, salve 
 <h4 style="color: red;">Links</h4>
 
 {% highlight html %}
-<a href="http://lucasalves.ml/">Eu sou um link</a>
+<a href="https://programadoresreais.com.br/">Eu sou um link</a>
 {% endhighlight %}
 
 - a tag link tem o atributo href para referenciar o caminho a ser levado.
@@ -193,7 +193,7 @@ Documento completo
     <p>Eu sou um paragrafo.</p>
     <p>Eu sou outro paragrafo.</p>
 
-    <a href="http://lucasalves.ml/">Eu sou um link</a>
+    <a href="https://programadoresreais.com.br/">Eu sou um link</a>
 
     <br>
 
@@ -258,7 +258,7 @@ Encontrou algum erro de português? Deixe nos comentários, será bastante útil
 <hr>
 <br>
 
-<div style="display: inline;">Anterior: <a href="http://lucasalves.ml/carreira-full-stack.html">Carreira Full Stack</a></div><div style="float: right">Próximo: <a href="http://lucasalves.ml/front-end/css/css-parte-um-conceitos-basicos.html">CSS - Parte I - Conceitos básicos</a></div>
+<div style="display: inline;">Anterior: <a href="https://programadoresreais.com.br/carreira-full-stack.html">Carreira Full Stack</a></div><div style="float: right">Próximo: <a href="https://programadoresreais.com.br/front-end/css/css-parte-um-conceitos-basicos.html">CSS - Parte I - Conceitos básicos</a></div>
 
 <br><br>
 Planejamento de artigos:

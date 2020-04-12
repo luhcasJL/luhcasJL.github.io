@@ -127,7 +127,7 @@ Texto revisado em 15/03/2019, encontrou algum erro de português? Deixe nos come
 <hr>
 <br>
 
-<div style="display: inline;">Anterior: <a href="http://lucasalves.ml/conceitos/mvc-uma-breve-explicacao.html">MVC - Uma breve explicação</a></div><div style="float: right">Próximo: <a href="http://lucasalves.ml/carreira-full-stack.html">Carreira Full Stack</a></div>
+<div style="display: inline;">Anterior: <a href="https://programadoresreais.com.br/conceitos/mvc-uma-breve-explicacao.html">MVC - Uma breve explicação</a></div><div style="float: right">Próximo: <a href="https://programadoresreais.com.br/carreira-full-stack.html">Carreira Full Stack</a></div>
 
 <br><br>
 Planejamento de artigos:

@@ -17,7 +17,7 @@ No artigo de hoje vou mostrar uma forma de comprimir imagens sem perder a qualid
 </div>
 <br>
 
-Para este artigo eu vou utilizar o projeto que eu disponibilizei no artigo sobre [hospedagem](https://lucasalves.ml/tutoriais/hospedagem-guia-definitivo.html){:target='blank' rel='noopener'} ele está no [GitHub](https://github.com/luhcasJL/blog/tree/master/portfolio){:target='blank' rel='noopener'} e hospedado [aqui](http://tutorialhospedagem.dx.am/){:target='blank' rel='noopener'}.
+Para este artigo eu vou utilizar o projeto que eu disponibilizei no artigo sobre [hospedagem](https://programadoresreais.com.br/tutoriais/hospedagem-guia-definitivo.html){:target='blank' rel='noopener'} ele está no [GitHub](https://github.com/luhcasJL/blog/tree/master/portfolio){:target='blank' rel='noopener'} e hospedado [aqui](http://tutorialhospedagem.dx.am/){:target='blank' rel='noopener'}.
 
 Vamos trabalhar apenas na página inicial, começando com alguns testes de desempenho.
 
@@ -108,7 +108,7 @@ Encontrou algum erro de português? Deixe nos comentários, será bastante útil
 <hr>
 <br>
 
-<div style="display: inline;">Anterior: <a href="https://lucasalves.ml/logica-programacao/logica-programacao-parte-dois.html">Lógica de programação - Parte 2</a></div><div style="float: right">Próximo: <a href="https://lucasalves.ml/negocios/contratos-voce-deve-fazer.html">Contratos - Você deve fazer</a></div>
+<div style="display: inline;">Anterior: <a href="https://programadoresreais.com.br/logica-programacao/logica-programacao-parte-dois.html">Lógica de programação - Parte 2</a></div><div style="float: right">Próximo: <a href="https://programadoresreais.com.br/negocios/contratos-voce-deve-fazer.html">Contratos - Você deve fazer</a></div>
 
 <br><br>
 Comentem aqui em baixo, marquem gostei, tirem dúvidas, e esperem pelo novo artigo.

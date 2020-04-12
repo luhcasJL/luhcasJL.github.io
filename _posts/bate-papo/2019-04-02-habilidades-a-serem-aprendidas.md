@@ -10,7 +10,7 @@ description: "Soft Skills, Intraempreendedorismo, Marketing, Vendas "
 
 Boas devs,
 
-Eu fiz um artigo sobre algumas competências técnicas que se precisa ter para ser um "[Desenvolvedor Full Stack](http://lucasalves.ml/carreira-full-stack.html)".
+Eu fiz um artigo sobre algumas competências técnicas que se precisa ter para ser um "[Desenvolvedor Full Stack](https://programadoresreais.com.br/carreira-full-stack.html)".
 
 Mas tem um ponto bastante importante, só precisamos saber programar? Hoje temos um bate papo sobre as demais habilidades que devemos ter, além de saber programar muito bem.
 
@@ -136,7 +136,7 @@ Encontrou algum erro de português? Deixe nos comentários, será bastante útil
 <hr>
 <br>
 
-<div style="display: inline;">Anterior: <a href="http://lucasalves.ml/front-end/css/css-parte-quatro-conceitos-basicos.html">CSS - Parte 4 - Conceitos básicos</a></div><div style="float: right">Próximo: <a href="http://lucasalves.ml/front-end/css/css-parte-cinco-conceitos-basicos.html">CSS - Parte 5 - Conceitos básicos</a></div>
+<div style="display: inline;">Anterior: <a href="https://programadoresreais.com.br/front-end/css/css-parte-quatro-conceitos-basicos.html">CSS - Parte 4 - Conceitos básicos</a></div><div style="float: right">Próximo: <a href="https://programadoresreais.com.br/front-end/css/css-parte-cinco-conceitos-basicos.html">CSS - Parte 5 - Conceitos básicos</a></div>
 
 <br><br>
 Planejamento de artigos:

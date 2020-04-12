@@ -153,7 +153,7 @@ Encontrou algum erro de português? Deixe nos comentários, será bastante útil
 <hr>
 <br>
 
-<div style="display: inline;">Anterior: <a href="http://lucasalves.ml/front-end/css/css-parte-dois-conceitos-basicos.html">CSS - Parte 2 - Conceitos básicos</a></div><div style="float: right">Próximo: <a href="http://lucasalves.ml/front-end/css/css-parte-tres-conceitos-basicos.html">CSS - Parte 3 - Conceitos básicos</a></div>
+<div style="display: inline;">Anterior: <a href="https://programadoresreais.com.br/front-end/css/css-parte-dois-conceitos-basicos.html">CSS - Parte 2 - Conceitos básicos</a></div><div style="float: right">Próximo: <a href="https://programadoresreais.com.br/front-end/css/css-parte-tres-conceitos-basicos.html">CSS - Parte 3 - Conceitos básicos</a></div>
 
 <br><br>
 Planejamento de artigos:

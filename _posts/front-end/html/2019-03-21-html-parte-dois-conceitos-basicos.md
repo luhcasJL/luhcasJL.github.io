@@ -14,7 +14,7 @@ Boas devs, essa é a parte 2 da série HTML - Conceitos Básicos e continuação
   <img src="/assets/imagens/html/html.png"/>
 </div>
 
-No artigo [anterior](http://lucasalves.ml/front-end/html/html-parte-um-conceitos-basicos.html) aprendemos alguns conceitos iniciais e algumas tags:
+No artigo [anterior](https://programadoresreais.com.br/front-end/html/html-parte-um-conceitos-basicos.html) aprendemos alguns conceitos iniciais e algumas tags:
 
 Neste artigo veremos:
 
@@ -231,7 +231,7 @@ Encontrou algum erro de português? Deixe nos comentários, será bastante útil
 <hr>
 <br>
 
-<div style="display: inline;">Anterior: <a href="http://lucasalves.ml/front-end/css/css-parte-um-conceitos-basicos.html">CSS - Parte 1 - Conceitos básicos</a></div><div style="float: right">Próximo: <a href="http://lucasalves.ml/front-end/css/css-parte-dois-conceitos-basicos.html">CSS - Parte 2 - Conceitos básicos</a></div>
+<div style="display: inline;">Anterior: <a href="https://programadoresreais.com.br/front-end/css/css-parte-um-conceitos-basicos.html">CSS - Parte 1 - Conceitos básicos</a></div><div style="float: right">Próximo: <a href="https://programadoresreais.com.br/front-end/css/css-parte-dois-conceitos-basicos.html">CSS - Parte 2 - Conceitos básicos</a></div>
 
 <br><br>
 Planejamento de artigos:

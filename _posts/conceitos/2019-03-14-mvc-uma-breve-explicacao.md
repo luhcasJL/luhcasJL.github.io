@@ -92,7 +92,7 @@ Texto revisado em 15/03/2019, encontrou algum erro de português? Deixe nos come
 <hr>
 <br>
 
-<div style="display: inline;">Anterior: <a href="http://lucasalves.ml/templates/primeiro-layout.html">Primeiro layout</a></div><div style="float: right">Próximo: <a href="http://lucasalves.ml/tutoriais/hospedagem-guia-definitivo.html">Hospedagem - Guia definitivo</a></div>
+<div style="display: inline;">Anterior: <a href="https://programadoresreais.com.br/templates/primeiro-layout.html">Primeiro layout</a></div><div style="float: right">Próximo: <a href="https://programadoresreais.com.br/tutoriais/hospedagem-guia-definitivo.html">Hospedagem - Guia definitivo</a></div>
 
 <br><br>
 Planejamento de artigos:

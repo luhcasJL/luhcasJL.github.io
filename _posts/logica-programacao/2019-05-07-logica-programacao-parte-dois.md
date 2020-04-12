@@ -93,7 +93,7 @@ Encontrou algum erro de português? Deixe nos comentários, será bastante útil
 <hr>
 <br>
 
-<div style="display: inline;">Anterior: <a href="https://lucasalves.ml/logica-programacao/logica-programacao-parte-um.html">Lógica de Programação - Parte 1</a></div><div style="float: right">Próximo: <a href="https://lucasalves.ml/tutoriais/desempenho-comprimir-imagem.html">Desempenho - Comprimir imagem</a></div>
+<div style="display: inline;">Anterior: <a href="https://programadoresreais.com.br/logica-programacao/logica-programacao-parte-um.html">Lógica de Programação - Parte 1</a></div><div style="float: right">Próximo: <a href="https://programadoresreais.com.br/tutoriais/desempenho-comprimir-imagem.html">Desempenho - Comprimir imagem</a></div>
 
 <br><br>
 Comentem aqui em baixo, marquem gostei, tirem dúvidas, e esperem pelo novo artigo.

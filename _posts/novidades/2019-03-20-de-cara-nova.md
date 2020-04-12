@@ -43,7 +43,7 @@ Encontrou algum erro de português? Deixe nos comentários, será bastante útil
 <hr>
 <br>
 
-<div style="display: inline;">Anterior: <a href="http://lucasalves.ml/front-end/css/css-parte-um-conceitos-basicos.html">CSS - Parte I - Conceitos básicos</a></div><div style="float: right"><a href="http://lucasalves.ml/front-end/html/html-parte-dois-conceitos-basicos.html">Próximo: HTML - Parte II - Conceitos básicos</a></div>
+<div style="display: inline;">Anterior: <a href="https://programadoresreais.com.br/front-end/css/css-parte-um-conceitos-basicos.html">CSS - Parte I - Conceitos básicos</a></div><div style="float: right"><a href="https://programadoresreais.com.br/front-end/html/html-parte-dois-conceitos-basicos.html">Próximo: HTML - Parte II - Conceitos básicos</a></div>
 
 <br><br>
 Planejamento de artigos:

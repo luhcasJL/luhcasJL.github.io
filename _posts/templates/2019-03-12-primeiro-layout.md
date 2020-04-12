@@ -419,7 +419,7 @@ Gostou do meu serviço? Me contrate chamando pelo wpp ou mande um e-mail.
 <br>
 
 
-<div style="display: inline;">Anterior: <a href="http://lucasalves.ml/jekyll/objetivos-do-blog.html">Objetivos do blog</a></div><div style="float: right">Próximo: <a href="http://lucasalves.ml/conceitos/mvc-uma-breve-explicacao.html">MVC - Uma breve explicação</a></div>
+<div style="display: inline;">Anterior: <a href="https://programadoresreais.com.br/jekyll/objetivos-do-blog.html">Objetivos do blog</a></div><div style="float: right">Próximo: <a href="https://programadoresreais.com.br/conceitos/mvc-uma-breve-explicacao.html">MVC - Uma breve explicação</a></div>
 
 <br><br>
 {% include disqus.html %}

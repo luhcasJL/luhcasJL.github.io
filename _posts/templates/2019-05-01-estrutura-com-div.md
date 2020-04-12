@@ -179,7 +179,7 @@ O resultado final foi:
 
 Este exemplo não foi feito usando responsividade já que o intuito inicial é mostrar como funciona as estruturas usando div.
 
-Eu reescrevi o html de forma semântica, [leia aqui](http://lucasalves.ml/templates/estrutura-html-semantico.html).
+Eu reescrevi o html de forma semântica, [leia aqui](https://programadoresreais.com.br/templates/estrutura-html-semantico.html).
 
 Espero que tenham gostado, é sempre feito com bastante afinco e carinho.
 
@@ -202,7 +202,7 @@ Encontrou algum erro de português? Deixe nos comentários, será bastante útil
 <hr>
 <br>
 
-<div style="display: inline;">Anterior: <a href="http://lucasalves.ml/front-end/css/css-parte-cinco-conceitos-basicos.html">CSS Parte 5 - Conceitos Básicos</a></div><div style="float: right">Próximo: <a href="http://lucasalves.ml/templates/estrutura-html-semantico.html">Estrutura com html semântico</a></div>
+<div style="display: inline;">Anterior: <a href="https://programadoresreais.com.br/front-end/css/css-parte-cinco-conceitos-basicos.html">CSS Parte 5 - Conceitos Básicos</a></div><div style="float: right">Próximo: <a href="https://programadoresreais.com.br/templates/estrutura-html-semantico.html">Estrutura com html semântico</a></div>
 
 <br><br>
 Planejamento de artigos:

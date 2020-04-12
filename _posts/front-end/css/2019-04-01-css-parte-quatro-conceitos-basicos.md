@@ -280,7 +280,7 @@ p{
 }
 {% endhighlight %}
 
-Ver [unidades de medidas](http://lucasalves.ml/front-end/css/css-parte-dois-conceitos-basicos.html)
+Ver [unidades de medidas](https://programadoresreais.com.br/front-end/css/css-parte-dois-conceitos-basicos.html)
 
 <h4 style="color: red;">font-weight</h4>
 
@@ -338,7 +338,7 @@ Encontrou algum erro de português? Deixe nos comentários, será bastante útil
 <hr>
 <br>
 
-<div style="display: inline;">Anterior: <a href="http://lucasalves.ml/front-end/html/html-parte-quatro-conceitos-basicos.html">HTML - Parte 4 - Conceitos básicos</a></div><div style="float: right">Próximo: <a href="http://lucasalves.ml/bate-papo/habilidades-a-serem-aprendidas.html">Habilidades a serem aprendidas</a></div>
+<div style="display: inline;">Anterior: <a href="https://programadoresreais.com.br/front-end/html/html-parte-quatro-conceitos-basicos.html">HTML - Parte 4 - Conceitos básicos</a></div><div style="float: right">Próximo: <a href="https://programadoresreais.com.br/bate-papo/habilidades-a-serem-aprendidas.html">Habilidades a serem aprendidas</a></div>
 
 <br><br>
 Planejamento de artigos:

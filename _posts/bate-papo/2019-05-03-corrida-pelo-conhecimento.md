@@ -108,7 +108,7 @@ Encontrou algum erro de português? Deixe nos comentários, será bastante útil
 <hr>
 <br>
 
-<div style="display: inline;">Anterior: <a href="http://lucasalves.ml/templates/estrutura-html-semantico.html">Estrutura com html semântico</a></div><div style="float: right">Próximo: <a href="http://lucasalves.ml/logica-programacao/logica-programacao-parte-um.html">Lógica de programação - Parte 1</a></div>
+<div style="display: inline;">Anterior: <a href="https://programadoresreais.com.br/templates/estrutura-html-semantico.html">Estrutura com html semântico</a></div><div style="float: right">Próximo: <a href="https://programadoresreais.com.br/logica-programacao/logica-programacao-parte-um.html">Lógica de programação - Parte 1</a></div>
 
 <br><br>
 Planejamento de artigos:

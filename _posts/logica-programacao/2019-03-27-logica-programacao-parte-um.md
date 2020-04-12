@@ -90,7 +90,7 @@ Encontrou algum erro de português? Deixe nos comentários, será bastante útil
 <hr>
 <br>
 
-<div style="display: inline;">Anterior: <a href="http://lucasalves.ml/bate-papo/corrida-pelo-conhecimento.html">Corrida pelo conhecimento</a></div><div style="float: right">Próximo: <a href="https://lucasalves.ml/logica-programacao/logica-programacao-parte-dois.html">Lógica de Programação - Parte 2</a></div>
+<div style="display: inline;">Anterior: <a href="https://programadoresreais.com.br/bate-papo/corrida-pelo-conhecimento.html">Corrida pelo conhecimento</a></div><div style="float: right">Próximo: <a href="https://programadoresreais.com.br/logica-programacao/logica-programacao-parte-dois.html">Lógica de Programação - Parte 2</a></div>
 
 <br><br>
 Planejamento de artigos:

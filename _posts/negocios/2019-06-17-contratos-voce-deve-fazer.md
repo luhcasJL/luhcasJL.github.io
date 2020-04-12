@@ -240,7 +240,7 @@ Encontrou algum erro de português? Deixe nos comentários, será bastante útil
 <hr>
 <br>
 
-<div style="display: inline;">Anterior: <a href="https://lucasalves.ml/tutoriais/desempenho-comprimir-imagem.html">Desempenho - Comprimir imagem</a></div><div style="float: right">Próximo: ...</div>
+<div style="display: inline;">Anterior: <a href="https://programadoresreais.com.br/tutoriais/desempenho-comprimir-imagem.html">Desempenho - Comprimir imagem</a></div><div style="float: right">Próximo: ...</div>
 
 <br><br>
 Comentem aqui em baixo, marquem gostei, tirem dúvidas, e esperem pelo novo artigo.

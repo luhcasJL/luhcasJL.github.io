@@ -16,7 +16,7 @@ Boas devs, essa é a parte 2 da série CSS - Conceitos Básicos e continuação 
 
 <br>
 
-No artigo [anterior](http://lucasalves.ml/front-end/css/css-parte-um-conceitos-basicos.html) aprendemos as formas de implementar o CSS, alguns conceitos iniciais e estilização de uma página de conteúdo.
+No artigo [anterior](https://programadoresreais.com.br/front-end/css/css-parte-um-conceitos-basicos.html) aprendemos as formas de implementar o CSS, alguns conceitos iniciais e estilização de uma página de conteúdo.
 
 Neste artigo vou ensinar um conceito muito importante chamado "Unidades de medidas", o texto é um pouco longo, mas será essencial para não se perder no futuro.
 
@@ -305,7 +305,7 @@ Encontrou algum erro de português? Deixe nos comentários, será bastante útil
 <hr>
 <br>
 
-<div style="display: inline;">Anterior: <a href="http://lucasalves.ml/front-end/html/html-parte-dois-conceitos-basicos.html">HTML - Parte I - Conceitos básicos</a></div><div style="float: right">Próximo: <a href="http://lucasalves.ml/front-end/html/html-parte-tres-conceitos-basicos.html">HTML - Parte 3 - Conceitos básicos</a></div>
+<div style="display: inline;">Anterior: <a href="https://programadoresreais.com.br/front-end/html/html-parte-dois-conceitos-basicos.html">HTML - Parte I - Conceitos básicos</a></div><div style="float: right">Próximo: <a href="https://programadoresreais.com.br/front-end/html/html-parte-tres-conceitos-basicos.html">HTML - Parte 3 - Conceitos básicos</a></div>
 
 <br><br>
 Planejamento de artigos:

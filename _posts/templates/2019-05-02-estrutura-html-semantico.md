@@ -10,7 +10,7 @@ description: "Semântica, refatorando código anterior"
 
 Boas devs,
 
-O artigo anterior [Estrutura com div](http://lucasalves.ml/templates/estrutura-com-div.html), tinha como objetivo ensinar a utilização da div para dividir elementos da página; Eu não me preocupei muito com a parte semântica do HTML5 por que não era o objetivo do artigo e fui aplaudido por alguns (tanto novatos como experientes que entenderam o objetivo do artigo) e também tomei umas voadoras de pessoas que acham que sabem muito e estão a anos luz na frente de todo mundo.
+O artigo anterior [Estrutura com div](https://programadoresreais.com.br/templates/estrutura-com-div.html), tinha como objetivo ensinar a utilização da div para dividir elementos da página; Eu não me preocupei muito com a parte semântica do HTML5 por que não era o objetivo do artigo e fui aplaudido por alguns (tanto novatos como experientes que entenderam o objetivo do artigo) e também tomei umas voadoras de pessoas que acham que sabem muito e estão a anos luz na frente de todo mundo.
 
 <div style="text-align: center;">
   <img src="/assets/imagens/templates/div/w3c.png" style="height: 200px; "/>
@@ -214,7 +214,7 @@ Encontrou algum erro de português? Deixe nos comentários, será bastante útil
 <hr>
 <br>
 
-<div style="display: inline;">Anterior: <a href="http://lucasalves.ml/templates/estrutura-com-div.html">Estrutura com div</a></div><div style="float: right">Próximo: <a href="http://lucasalves.ml/bate-papo/corrida-pelo-conhecimento.html">Corrida pelo conhecimento</a></div>
+<div style="display: inline;">Anterior: <a href="https://programadoresreais.com.br/templates/estrutura-com-div.html">Estrutura com div</a></div><div style="float: right">Próximo: <a href="https://programadoresreais.com.br/bate-papo/corrida-pelo-conhecimento.html">Corrida pelo conhecimento</a></div>
 
 <br><br>
 Planejamento de artigos:

@@ -8,7 +8,7 @@ author: "Lucas"
 description: "Border, Margin, Padding"
 ---
 
-Boas devs, no artigo de hoje vamos aprofundar mais nas tags vistas no primeiro [artigo](http://lucasalves.ml/front-end/css/css-parte-um-conceitos-basicos.html) de css.
+Boas devs, no artigo de hoje vamos aprofundar mais nas tags vistas no primeiro [artigo](https://programadoresreais.com.br/front-end/css/css-parte-um-conceitos-basicos.html) de css.
 
 <div style="text-align: center;">
   <img src="/assets/imagens/css/aula_um/css.jpeg"/>
@@ -20,7 +20,7 @@ Neste artigo veremos:
 - Margin
 - Padding
 
-Depois de termos visto sobre [Unidades de Medidas](http://lucasalves.ml/front-end/css/css-parte-dois-conceitos-basicos.html), fica mais fácil de entender esses conceitos.
+Depois de termos visto sobre [Unidades de Medidas](https://programadoresreais.com.br/front-end/css/css-parte-dois-conceitos-basicos.html), fica mais fácil de entender esses conceitos.
 
 Para entender este novo artigo, crie a pasta "aula_tres", o arquivo "index.html" e o "style.css".
 
@@ -175,7 +175,7 @@ Encontrou algum erro de português? Deixe nos comentários, será bastante útil
 <hr>
 <br>
 
-<div style="display: inline;">Anterior: <a href="http://lucasalves.ml/front-end/html/html-parte-tres-conceitos-basicos.html">HTML - Parte 3 - Conceitos básicos</a></div><div style="float: right">Próximo: <a href="http://lucasalves.ml/front-end/html/html-parte-quatro-conceitos-basicos.html">HTML - Parte 4 - Conceitos básicos</a></div>
+<div style="display: inline;">Anterior: <a href="https://programadoresreais.com.br/front-end/html/html-parte-tres-conceitos-basicos.html">HTML - Parte 3 - Conceitos básicos</a></div><div style="float: right">Próximo: <a href="https://programadoresreais.com.br/front-end/html/html-parte-quatro-conceitos-basicos.html">HTML - Parte 4 - Conceitos básicos</a></div>
 
 <br><br>
 Planejamento de artigos:

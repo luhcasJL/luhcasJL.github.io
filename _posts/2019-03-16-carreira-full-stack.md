@@ -146,7 +146,7 @@ Encontrou algum erro de português? Deixe nos comentários, será bastante útil
 <hr>
 <br>
 
-<div style="display: inline;">Anterior: <a href="http://lucasalves.ml/tutoriais/hospedagem-guia-definitivo.html">Hospedagem - Guia definitivo</a></div><div style="float: right">Próximo: <a href="http://lucasalves.ml/front-end/html/html-parte-um-conceitos-basicos.html">HTML - Parte I - Conceitos Básicos</a></div>
+<div style="display: inline;">Anterior: <a href="https://programadoresreais.com.br/tutoriais/hospedagem-guia-definitivo.html">Hospedagem - Guia definitivo</a></div><div style="float: right">Próximo: <a href="https://programadoresreais.com.br/front-end/html/html-parte-um-conceitos-basicos.html">HTML - Parte I - Conceitos Básicos</a></div>
 
 <br><br>
 Planejamento de artigos:

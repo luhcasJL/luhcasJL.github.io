@@ -42,7 +42,7 @@ Tiremos como exemplo um prédio:
  - O principal elemento que um prédio tem são apartamentos, sendo assim criamos no banco de dados uma tabela chamada apartamentos, para ficar simples ela só terá os campos id e número do apartamento.
 
  <div style="text-align: center;">
-   <img src="/assets/imagens/conceitos/banco_dados/table_apartamentos.png"/>
+   <img src="/assets/imagens/conceitos/banco_dados/table_apartamentos.PNG"/>
  </div>
 
  O id do apartamento foi definido com a primary key e com auto increment.
@@ -50,7 +50,7 @@ Tiremos como exemplo um prédio:
  - Já o apartamento tem moradores, criamos também a tabela correspondente.
 
  <div style="text-align: center;">
-   <img src="/assets/imagens/conceitos/banco_dados/table_no_moradares.png"/>
+   <img src="/assets/imagens/conceitos/banco_dados/table_no_moradares.PNG"/>
  </div>
 
 O id do apartamento foi definido com a primary key e com auto increment e o CPF foi definido como unique, já que uma mesma pessoa não pode ser registrada duas vezes como moradora do prédio.
@@ -62,7 +62,7 @@ Analisando o caso do prédio, percebemos que temos duas tabelas mas que não tem
 Isso é resolvido incluindo uma foreign key na tabela moradores.
 
 <div style="text-align: center;">
-  <img src="/assets/imagens/conceitos/banco_dados/table_yes_moradares.png"/>
+  <img src="/assets/imagens/conceitos/banco_dados/table_yes_moradares.PNG"/>
 </div>
 
 Desta forma temos como relacionar as duas tabelas.
@@ -76,13 +76,13 @@ Vamos analisar apenas os dados do produto, entradas de estoque e alterações de
 Sendo assim teremos 3 tabelas, sendo a principal a tabela produtos.
 
 <div style="text-align: center;">
-  <img src="/assets/imagens/conceitos/banco_dados/table_produtos.png"/>
+  <img src="/assets/imagens/conceitos/banco_dados/table_produtos.PNG"/>
 </div>
 
 O EAN é o código de barras do produto e jamais devemos coloca-lo como chave estrangeira, assim:
 
 <div style="text-align: center;">
-  <img src="/assets/imagens/conceitos/banco_dados/table_historico_no_preco.png"/>
+  <img src="/assets/imagens/conceitos/banco_dados/table_historico_no_preco.PNG"/>
 </div>
 
 Agora vou dizer porque você não deve relacionar assim, imagine que seja um supermercado grande, que tenha milhares de produtos, que os preços são alterados frequentemente, e que um produto X tenha sido cadastrado no dia 10/01/2002 e que no dia 15/01/2020 um funcionário percebeu que o código ean foi cadastrado incorretamente e que já se tenha realizado centenas de vendas, alterações de preço e entradas de estoque;
@@ -94,12 +94,12 @@ Foi isto que aconteceu a semana passada em um ERP, com a grande sorte de ter sid
 Pois bem, faça a tabela desta forma.
 
 <div style="text-align: center;">
-  <img src="/assets/imagens/conceitos/banco_dados/table_produtos_yes.png"/>
+  <img src="/assets/imagens/conceitos/banco_dados/table_produtos_yes.PNG"/>
 </div>
 Defina o código EAN como UNIQUE.
 
 <div style="text-align: center;">
-  <img src="/assets/imagens/conceitos/banco_dados/table_historico_yes_preco.png"/>
+  <img src="/assets/imagens/conceitos/banco_dados/table_historico_yes_preco.PNG"/>
 </div>
 Faça com que a chave estrangeira seja o id do produto.
 

@@ -12,6 +12,10 @@ Boas devs,
 
 Esta semana me deparei com um problema sutil na concepção de um banco de dados usando o MySQL e que se tornou uma grande dor de cabeça.
 
+<div style="text-align: center;">
+  <img src="/assets/imagens/conceitos/banco_dados/broken.jpg"/>
+</div>
+
 Antes de falar sobre o problema, vamos a alguns conceitos básicos.
 
 <h4 style="color: #FF0000;">MySQL</h4>

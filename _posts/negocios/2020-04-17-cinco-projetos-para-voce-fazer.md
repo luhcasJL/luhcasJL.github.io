@@ -94,7 +94,7 @@ Essa é a sacada, o empresário vai oferecer um beneficio, vai fidelizar o clien
 
 <h4 style="color: red;">5 - Pesquise as empresas no google que estejam próximas de você</h4>
 <div style="text-align: center;">
-  <img src="/assets/imagens/negocios/projetos/google_search.PNG"/>
+  <img src="/assets/imagens/negocios/projetos/google_search.png"/>
 </div>
 <br>
 Esse ponto é interessante, faça uma pesquisa no google sobre as empresas próximas de você e veja quais tenham sites, as que não tiverem você pode oferecer isso e as que tiverem e o site tiver problemas de layout, funcionalidade você pode oferecer as devidas correções.

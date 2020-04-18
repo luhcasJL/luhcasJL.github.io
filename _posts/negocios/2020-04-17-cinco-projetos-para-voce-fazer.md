@@ -72,7 +72,7 @@ A Danki Code é a maior escola de <a href="https://go.hotmart.com/T25055660L" ta
 O Pacote Full-Stack oferecido por eles conta com mais de 1500 aulas, 100 projetos práticos e acesso vitalício.
 
 <div style="text-align: center;">
-  <img src="/assets/imagens/negocios/projetos/cursos.png"/>
+  <img src="/assets/imagens/negocios/projetos/cursos.PNG"/>
 </div>
 
 A imagem acima dá um preview do que vocês vão encontrar por um valor super acessível.
